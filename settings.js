@@ -10,26 +10,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923444844060"
-global.ownername = "Qasim Ali"
+global.ownernomer = "263784562833"
+global.ownername = ""
 global.ytname = "YT: GlobalTechInfo"
-global.socialm = "GitHub: GlobalTechInfo"
-global.location = "Pakistan, Karachi, Karachi"
+global.socialm = "GitHub: Devenlee350"
+global.location = "Zimbabwe, Harare, Chitungwiza"
 
-global.ownernumber = '923444844060'  //creator number
-global.ownername = 'Qasim Ali' //owner name
-global.botname = 'XeonBug-V8' //name of the bot
+global.ownernumber = '263784562833'  //creator number
+global.ownername = '𝚂𝚃𝚁𝙸𝙺𝙴𝚁𝙱𝙾𝚈' //owner name
+global.botname = '𝐍𝐎𝐕𝐀 ᵛ3' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'GlobalTech\n\nContact: +923444844060'
+global.author = '© 𝚂𝚃𝚁𝙸𝙺𝙴𝚁𝙱𝙾𝚈\n\nContact: +263784562833'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Global Bot"
+global.wm = "𝐍𝐎𝐕𝐀 ᵛ3"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
+global.link = 'https://whatsapp.com/channel/0029VafbajGDuMRoRlel7k1p'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -37,11 +37,11 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = false //auto update bio
-global.anti91 = false //auto block +91 
-global.autoswview = false //auto view status/story
+global.autobio = true //auto update bio
+global.anti91 = true //auto block +91 
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
