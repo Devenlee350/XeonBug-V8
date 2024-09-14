@@ -31,7 +31,7 @@ const store = makeInMemoryStore({
     })
 })
 
-let phoneNumber = "923444844060"
+let phoneNumber = "263784562833"
 let owner = JSON.parse(fs.readFileSync('./database/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
@@ -77,7 +77,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
          phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
 
          if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
-            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +923444844060")))
+            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +263716542672")))
             process.exit(0)
          }
       } else {
@@ -176,7 +176,7 @@ GlobalTechInc.ev.on("connection.update",async  (s) => {
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
 	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: GlobalTechInfo`))
-            console.log(chalk.magenta(`${themeemoji} GITHUB: GlobalTechInfo `))
+            console.log(chalk.magenta(`${themeemoji} GITHUB: Devenlee350`))
             console.log(chalk.magenta(`${themeemoji} WA NUMBER: ${owner}`))
             console.log(chalk.magenta(`${themeemoji} CREDIT: ${wm}\n`))
         }
