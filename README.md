@@ -1,3 +1,6 @@
+### Create Fork And Then Get Inside database, Edit Owner.json replace Your number And Commit Changes | If You Wana Add Premium Too, The Same Method Will Applies For It, Edit Owner.json. After Finishing This , Deploy And Enjoy.
+
+
 <p align="center">
 <a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://i.ibb.co/jHynY57/11993dc55c32a21a249ef1721fb66af4.jpg?style=for-the-badge&logo=github"></a>
 <p>
@@ -62,8 +65,33 @@
 src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
 
 `AFTER YARN GET INSTALLED, REMOVE YOUR COMMAND FROM BASH FILE AND CHANGE BOT START FILE NAME FROM index.js TO main.js`
+
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
  
- # I'LL ADD OTHER DEPLOYMENT METHODS LATER
+ ### DEPLOY IN REPLIT
+
+   <a href='https://repl.it/github/GlobalTechInfo/XeonBug-V8' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+  
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+
+### DEPLOY IN CODESPACE
+
+<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+
+### DEPLOY IN RENDER
+
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+ 
+### TUTORIAL FOR TERMUX
+<a href="https://youtu.be/LYpyutDn_9s"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/LYpyutDn_9s" /><br>
 
 # DEPLOY IN TERMUX/UBUNTU
 ```bash
